@@ -1,10 +1,6 @@
 # opensea-nft-api-tutorial
 OpenSea NFT API App using Python and Streamlit
 
-## Tutorial Video Walkthrough
-
-https://www.youtube.com/watch?v=49SupvcFC1M
-
 ## Instructions for Running
 ```
 pip3 install -r requirements.txt
